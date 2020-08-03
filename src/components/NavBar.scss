@@ -1,0 +1,23 @@
+.Navcontainer {
+    margin:10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-bottom: 100px;
+    // width: auto;
+}
+
+.Navdiv {
+    a {
+        color:rgb(75, 75, 75);    
+        font-size: 18px;
+        // font-weight: 600;
+        margin:40px;
+        margin-top:3rem;    
+        margin-bottom: 180px;
+        /* padding:10px; */
+    }
+    margin-left: 180px;
+
+}
