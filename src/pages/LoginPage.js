@@ -7,7 +7,7 @@ function LoginPage() {
             <h1>login page</h1>
             <button onClick={() => {
                 store.dispatch({ type: "LOGIN", name: "둘리", age: 333 })
-            }}>login</button>
+            }}>login2</button>
         </div>
     )
 }
